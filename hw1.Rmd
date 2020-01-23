@@ -1,0 +1,16 @@
+---
+title: "hw1"
+author: "syed hasan"
+github: github.com/shasan2519/mar7aba_ch1ca9o
+date: "1/22/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+I am a *DS major*, I switched from *Computer Sci*. I realized that I can't see myself coding forever. After exploring my options at Iowa State, DS had a perfect mix of coding, analysing data and easy to diverge into different industries. One of my perosnal hobbies are rewards based credit cards, I like to **open credit cards for their frequent flier points**, but not manage to spend money into their annual fees. At the same time opening too many credit cards also hurts you credit score and puts you as a risky customer in the eyes of the banks. I was very amazed and curious on how banks identify risky customers from milllions of timely paying customers. My main goal after DS is to get an MBA and to data analysing in big banks. My final projects in the previous class - DS201- was also based on a credit card limit prediction which was very well recvd by my professor and instructor. One example is [https://towardsdatascience.com/an-intro-to-data-science-for-credit-risk-modelling-57935805a911]
+
+![Sample Image](/Users/syedhamid/ds202_hw1/img.jpg)
